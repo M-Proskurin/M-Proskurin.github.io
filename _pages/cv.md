@@ -9,56 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/CV_Mikhail Proskurin_2025-09-12.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Neuroscience, Johns Hopkins University, 2013–2020
+* B.Sc. in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, 2007–2011
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Scientific Computing Associate**, HHMI Janelia Research Campus, Ashburn, VA — 2020–present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Graduate Researcher**, HHMI Janelia Research Campus, Ashburn, VA — 2014–2020
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Graduate Researcher**, Johns Hopkins University, Baltimore, MD — 2013–2014
+
+* **Research Technician**, HHMI Janelia Research Campus, Ashburn, VA — 2012–2013
+
+* **Junior Researcher**, Membrane Proteins Lab, Institute of Physical Chemistry, Moscow, Russia — 2010–2012
+
+* **Visiting Student**, Forschungszentrum Jülich, Jülich, Germany — 2009, 2010
+
+Additional Training
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* QBio Summer Research Course — *Neurophysics of Sensory Navigation*, Santa Barbara, CA (August 2018)
+* MBL Summer Course — *Methods in Computational Neuroscience*, Woods Hole, MA (August 2014)
+* Janelia Undergraduate Scholar, HHMI Janelia Research Campus, Ashburn, VA (June–August 2012)
+* Schola Ludus Summer School, Nové Hrady, Czech Republic (July 2011)
+* 42nd IFF School — *Macromolecular Systems in Soft- and Living-Matter*, Jülich, Germany (February 2011)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Talks & Conference Abstracts
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Service and Leadership
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer for scientific journals in neuroscience and computational biology
