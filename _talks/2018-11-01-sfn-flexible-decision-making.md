@@ -10,4 +10,6 @@ location: "San Diego, CA, USA"
 
 Poster presentation on the neural mechanisms underlying flexible decision-making in rats, examining how the anterior cingulate cortex supports strategy selection and behavioral adaptation.
 
+[Download poster (PDF)](/files/SfN-2018.pdf)
+
 **Authors:** Proskurin, M., Manakov, M., Kuleshova, E., Rysakova, M., Lustig, A., Behnam, R., Tervo, D. G. R., Karpova, A. Y.
