@@ -1,22 +1,37 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "FlinChR: a New Optogenetic Tool and Its Application for Neural Circuit Dissection<br />\"Biomembranes\" Symposium, Moscow Institute of Physics and Technology; Dolgoprudny, Russia",
+    55.9466077,
+    37.5048358
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Cognitive graphs of latent structure in rostral Anterior Cingulate Cortex<br />Society for Neuroscience Annual Meeting; San Diego, CA, USA",
+    32.7174202,
+    -117.162772
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "SMA-ACC Network Guides Flexible Strategy Selection in Rats<br />Computational and Systems Neuroscience (CoSyNe); Denver, CO, USA",
+    39.7392364,
+    -104.984862
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Anterior cingulate cortex and the exploration of alternative strategies<br />Society for Neuroscience Annual Meeting; San Diego, CA, USA",
+    32.7174202,
+    -117.162772
+  ],
+  [
+    "Encoding of structured knowledge in the medial prefrontal cortex<br />Society for Neuroscience Annual Meeting; Washington, DC, USA",
+    38.8950982,
+    -77.0363849
+  ],
+  [
+    "The neural basis of flexible decision-making in rodents<br />Society for Neuroscience Annual Meeting; San Diego, CA, USA",
+    32.7174202,
+    -117.162772
+  ],
+  [
+    "Cognitive graphs of latent structure in rostral Anterior Cingulate Cortex<br />Grounding Cognition in Mechanistic Insight; Ashburn, VA, USA",
+    39.0437192,
+    -77.4874899
   ]
 ];
