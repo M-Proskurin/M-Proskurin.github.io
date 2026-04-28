@@ -4,7 +4,7 @@ excerpt: "Using optogenetics in freely behaving rats, we demonstrated that the a
 collection: portfolio
 ---
 
-**Related publication:** [Tervo, Kuleshova, Manakov, Proskurin et al. (2021), *Neuron*, 109(11), 1876–1887](https://doi.org/10.1016/j.neuron.2021.03.025)
+**Related publication:** [Tervo, Kuleshova, Manakov, Proskurin et al. (2021), *Neuron*, 109(11), 1876–1887](https://doi.org/10.1016/j.neuron.2021.03.028)
 
 ## Overview
 

@@ -4,7 +4,7 @@ excerpt: "How does the brain generate variability in behavior — and why? We tr
 collection: portfolio
 ---
 
-**Related publication:** [Tervo et al. (2014), *Cell*, 159(1), 21–32](https://doi.org/10.1016/j.cell.2014.09.020)
+**Related publication:** [Tervo et al. (2014), *Cell*, 159(1), 21–32](https://doi.org/10.1016/j.cell.2014.08.037)
 
 ## Overview
 
