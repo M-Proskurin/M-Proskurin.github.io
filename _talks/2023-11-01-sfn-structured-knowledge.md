@@ -10,6 +10,8 @@ location: "Washington, DC, USA"
 
 Poster presentation on how the medial prefrontal cortex, and the anterior cingulate cortex in particular, encodes structured knowledge about task contingencies and latent relational structure.
 
+[![SfN 2023 poster preview](/files/SfN-2023.jpg)](/files/SfN-2023.pdf)
+
 [Download poster (PDF)](/files/SfN-2023.pdf)
 
 **Authors:** Proskurin, M., Manakov, M., Wang, H., Kuleshova, E., Lustig, A., Behnam, R., Druckmann, S., Tervo, D.G.R., Karpova, A.
