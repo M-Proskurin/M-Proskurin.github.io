@@ -6,8 +6,10 @@ permalink: /publication/2021-03-01-anterior-cingulate-cortex-neuron
 excerpt: "We demonstrate that the anterior cingulate cortex (ACC) plays a causal role in directing exploration of alternative behavioral strategies, linking ACC activity to flexible, adaptive decision-making."
 date: 2021-03-01
 venue: 'Neuron'
-paperurl: 'https://doi.org/10.1016/j.neuron.2021.03.028'
+paperurl: '/files/papers/2021-tervo_etal.pdf'
 citation: 'Tervo, D.G.R., Kuleshova, E., Manakov, M., <b>Proskurin, M.</b>, Karlsson, M., Lustig, A., Behnam, R., &amp; Karpova, A.Y. (2021). The anterior cingulate cortex directs exploration of alternative strategies. <i>Neuron</i>, 109(11), 1876–1887. <a href="https://doi.org/10.1016/j.neuron.2021.03.028">https://doi.org/10.1016/j.neuron.2021.03.028</a>'
 ---
+
+<a href="/files/papers/2021-tervo_etal.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Download PDF</a> &nbsp;|&nbsp; <a href="https://doi.org/10.1016/j.neuron.2021.03.028">DOI</a>
 
 Using a combination of optogenetic manipulations and behavioral analysis, this study reveals that the anterior cingulate cortex causally directs animals to explore alternative behavioral strategies, providing a mechanistic account of how the brain promotes adaptive behavior in changing environments.
