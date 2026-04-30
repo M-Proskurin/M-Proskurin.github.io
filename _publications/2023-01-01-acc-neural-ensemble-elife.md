@@ -7,6 +7,7 @@ excerpt: "We show that population-level dynamics in the anterior cingulate corte
 date: 2023-01-01
 venue: 'eLife'
 paperurl: '/files/papers/2023-proskurin_etal.pdf'
+doi: '10.7554/eLife.84897'
 citation: '<b>Proskurin, M.</b>, Manakov, M., &amp; Karpova, A. Y. (2023). ACC neural ensemble dynamics are structured by strategy prevalence. <i>eLife</i>, 12:e84897.'
 ---
 

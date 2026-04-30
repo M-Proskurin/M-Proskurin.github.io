@@ -7,6 +7,7 @@ excerpt: "We show that trial-by-trial behavioral variability in rats arises thro
 date: 2014-09-01
 venue: 'Cell'
 paperurl: '/files/papers/2014-tervo_etal.pdf'
+doi: '10.1016/j.cell.2014.08.037'
 citation: 'Tervo, D. G. R., <b>Proskurin, M.</b>, Manakov, M., Kabra, M., Vollmer, A., Branson, K., &amp; Karpova, A. Y. (2014). Behavioral variability through stochastic choice and its gating by anterior cingulate cortex. <i>Cell</i>, 159(1), 21–32. <a href="https://doi.org/10.1016/j.cell.2014.08.037">https://doi.org/10.1016/j.cell.2014.08.037</a>'
 ---
 

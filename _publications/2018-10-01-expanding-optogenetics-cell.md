@@ -7,6 +7,7 @@ excerpt: "We describe a strategy for expanding the optogenetics toolkit by topol
 date: 2018-10-01
 venue: 'Cell'
 paperurl: '/files/papers/2018-brown_etal.pdf'
+doi: '10.1016/j.cell.2018.09.026'
 citation: 'Brown, J., Behnam, R., Coddington, L., Tervo, D.G.R., Martin, K., <b>Proskurin, M.</b>, ... Karpova, A. Y. (2018). Expanding the Optogenetics Toolkit by Topological Inversion of Rhodopsins. <i>Cell</i>, 175(4), 1131–1140.'
 ---
 

@@ -7,6 +7,7 @@ excerpt: "We reveal that the rostral anterior cingulate cortex organizes latent 
 date: 2025-04-01
 venue: 'bioRxiv'
 paperurl: '/files/papers/2025-manakov_etal.pdf'
+doi: '10.1101/2025.04.18.649507'
 citation: 'Manakov, M.*, <b>Proskurin, M.</b>*, Wang, H., Kuleshova, E., Lustig, A., Behnam, R., Druckmann, S., Tervo, D.G.R., &amp; Karpova, A. (2025). Cognitive graphs of latent structure in rostral Anterior Cingulate Cortex. <i>bioRxiv</i>, 2025.04.18.649507. (*equal contribution)'
 ---
 
