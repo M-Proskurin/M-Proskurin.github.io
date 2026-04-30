@@ -31,7 +31,7 @@ var addressPoints = [
   ],
   [
     "Cognitive graphs of latent structure in rostral Anterior Cingulate Cortex<br />Grounding Cognition in Mechanistic Insight; Ashburn, VA, USA",
-    39.0437192,
-    -77.4874899
+    39.029784,
+    -77.4744148
   ]
 ];
