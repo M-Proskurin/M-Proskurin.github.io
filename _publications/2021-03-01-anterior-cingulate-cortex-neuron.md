@@ -8,7 +8,7 @@ date: 2021-03-01
 venue: 'Neuron'
 paperurl: '/files/papers/2021-tervo_etal.pdf'
 doi: '10.1016/j.neuron.2021.03.028'
-citation: 'Tervo, D.G.R., Kuleshova, E., Manakov, M., <b>Proskurin, M.</b>, Karlsson, M., Lustig, A., Behnam, R., &amp; Karpova, A.Y. (2021). The anterior cingulate cortex directs exploration of alternative strategies. <i>Neuron</i>, 109(11), 1876–1887. <a href="https://doi.org/10.1016/j.neuron.2021.03.028">https://doi.org/10.1016/j.neuron.2021.03.028</a>'
+citation: 'Tervo, D.G.R., Kuleshova, E., Manakov, M., <b>Proskurin, M.</b>, Karlsson, M., Lustig, A., Behnam, R., &amp; Karpova, A.Y. (2021). The anterior cingulate cortex directs exploration of alternative strategies. <i>Neuron</i>, 109(11), 1876–1887.'
 ---
 
 <a href="/files/papers/2021-tervo_etal.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Download PDF</a> &nbsp;|&nbsp; <a href="https://doi.org/10.1016/j.neuron.2021.03.028">DOI</a>
