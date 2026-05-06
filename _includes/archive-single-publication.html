@@ -1,0 +1,45 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <p itemprop="headline" style="margin-bottom:0.2em">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </p>
+
+    {% if post.citation %}
+      <p style="margin-top:0.2em; margin-bottom:0.3em">{{ post.citation }}</p>
+    {% endif %}
+
+    {% if post.paperurl or post.doi or post.slidesurl or post.bibtexurl %}
+      <p style="margin-top:0.1em">
+        {% assign _sep = false %}
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}"><i class="fas fa-file-pdf" aria-hidden="true"></i> Download Paper</a>
+          {% assign _sep = true %}
+        {% endif %}
+        {% if post.doi %}
+          {% if _sep %} | {% endif %}
+          <a href="https://doi.org/{{ post.doi }}">DOI</a>
+          {% assign _sep = true %}
+        {% endif %}
+        {% if post.slidesurl %}
+          {% if _sep %} | {% endif %}
+          <a href="{{ post.slidesurl }}">Download Slides</a>
+          {% assign _sep = true %}
+        {% endif %}
+        {% if post.bibtexurl %}
+          {% if _sep %} | {% endif %}
+          <a href="{{ post.bibtexurl }}">Download Bibtex</a>
+        {% endif %}
+      </p>
+    {% endif %}
+
+  </article>
+</div>
